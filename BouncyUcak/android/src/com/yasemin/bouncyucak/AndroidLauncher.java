@@ -1,5 +1,5 @@
 package com.yasemin.bouncyucak;
-
+// derlenmiş hali nerde aceba ???
 import android.os.Bundle;
 
 import com.badlogic.gdx.backends.android.AndroidApplication;
